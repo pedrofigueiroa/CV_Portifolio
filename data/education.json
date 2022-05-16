@@ -1,13 +1,15 @@
 [
     {
-        "Escola":"[Colégio Santa Maria](https://santamaria.pucminas.br)",
-        "Grau":"Ensino Fundamental e Médio",
+        "school":"[Rochester Institute of Technology](https://rit.edu)",
+        "degree":"Bachelor of Science",
         "major":"Management Information Systems",
-        "Tempo":"2013 - 2019"
+        "notes":"Beta Gamma Signma, High Honors",
+        "range":"2006 - 2008"
     },
     {
-        "Faculdade":"Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)",
-        "Grau":"Bacharelado em Administração",
-        "Tempo":"2020 - 2023"
+        "school":"Clinton Community College",
+        "degree":"Associate of Applied Science",
+        "major":"Computer Information Systems",
+        "range":"2004 - 2006"
     }
 ]
