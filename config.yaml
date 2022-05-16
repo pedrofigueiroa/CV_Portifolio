@@ -1,4 +1,4 @@
-title: Eddie Webb
+title: Pedro Figueiroa
 baseURL: https://cvpedrofigueiroa.netlify.app/
 theme: hugo-resume
 languageCode: en-us
@@ -26,7 +26,7 @@ params:
     - link: https://keybase.io/edwardawebb
       name: Keybase
   lastName: Webb
-  phone: 1-555-555-1234
+  phone: +55(31)98737-7372
   profileImage: img/TechChat.png
   showEducation: yes
   showExperience: yes
