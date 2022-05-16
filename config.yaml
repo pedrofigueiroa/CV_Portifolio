@@ -7,15 +7,15 @@ PygmentsCodeFencesGuessSyntax: yes
 PygmentsStyle: monokai
 enableGitInfo: no
 params:
-  address: Rollinsford, NH
-  email: email@domain.com
+  address: Belo Horizonte, MG
+  email: pedroiki03@gmail.com
   favicon: /favicon.ico
-  firstName: Eddie
+  firstName: Pedro
   google:
     analytics:
       trackerID: XX-123446-01
   handles:
-    - link: https://www.linkedin.com/in/edwardwebb/
+    - link: https://www.linkedin.com/in/pedro-henrique-cea-211414211/
       name: LinkedIn
     - link: https://github.com/eddiewebb/
       name: GitHub
